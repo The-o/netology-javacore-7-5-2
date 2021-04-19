@@ -1,0 +1,14 @@
+# Gradle
+.gradle
+/build
+
+# VS code
+.vscode
+.project
+.classpath
+.settings
+/bin
+
+# Output file
+
+data.json
